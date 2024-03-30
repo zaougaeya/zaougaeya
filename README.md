@@ -1,8 +1,5 @@
 
 # Bienvenue sur mon profil Git
-## Image de profil
-
-<img src="https://previews.123rf.com/images/lytasepta/lytasepta2211/lytasepta221100259/195171454-photo-de-profil-d-avatar-f%C3%A9minin-pour-r%C3%A9seau-social-avec-illustration-vectorielle-lumineuse-demi.jpg" alt="Image de profil" width="200" height="200">
 
 Salut, je suis Zaouga Eya, une développeuse passionnée par la création de logiciels innovants et la résolution de problèmes complexes.
 
@@ -39,7 +36,6 @@ Je suis une développeuse expérimentée avec une solide expérience dans plusie
 
 - Méthodologies :
   - Agile
-  - Scrum
 
 ## Expérience professionnelle
 
